@@ -1,0 +1,2 @@
+# tsc
+Typescript for js
